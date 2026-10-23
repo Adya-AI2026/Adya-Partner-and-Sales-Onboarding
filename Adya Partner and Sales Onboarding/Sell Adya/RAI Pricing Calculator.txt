@@ -1,1 +1,2 @@
 RAI Pricing Calculator Link :
+ https://raiadyapricing.netlify.app
